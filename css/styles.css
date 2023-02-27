@@ -93,7 +93,7 @@ img {
 
     }
 .container {
-
+    padding: 10px 40px;
     position: relative;
     width: 10vw;
 }
