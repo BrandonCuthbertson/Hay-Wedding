@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\img"
+    "\\fonts",
+    "\\img",
+    "\\img\\symbols"
   ],
-  "SelectedNode": "\\img\\IMG_3693.JPG",
+  "SelectedNode": "\\img\\symbols\\hand-baby.png",
   "PreviewInSolutionExplorer": false
 }
